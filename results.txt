@@ -1,0 +1,431 @@
+..........This is Naive String Matching Algorithm..........
+
+
+Birthday pattern is : 970520
+
+Pattern found at index :54171
+Pattern found at index :711721
+Pattern found at index :1311949
+Pattern found at index :2152110
+Pattern found at index :2601397
+Pattern found at index :4314154
+Pattern found at index :6582950
+Pattern found at index :7055530
+Pattern found at index :7139706
+Pattern found at index :7243085
+Pattern found at index :7780316
+Pattern found at index :8207317
+Pattern found at index :8563377
+Pattern found at index :9015894
+Pattern found at index :9286806
+Pattern found at index :9355867
+Pattern found at index :9778067
+Pattern found at index :10004939
+Pattern found at index :10089687
+Pattern found at index :10391247
+Pattern found at index :12851695
+Pattern found at index :13703310
+Pattern found at index :14119875
+Pattern found at index :14251838
+Pattern found at index :15835433
+Pattern found at index :17171857
+Pattern found at index :18509969
+Pattern found at index :18798922
+Pattern found at index :23355331
+Pattern found at index :23573091
+Pattern found at index :24694082
+Pattern found at index :25194960
+Pattern found at index :29703399
+Pattern found at index :30131814
+Pattern found at index :31037323
+Pattern found at index :31223627
+Pattern found at index :31674131
+Pattern found at index :31893448
+Pattern found at index :32479698
+Pattern found at index :32838567
+Pattern found at index :34382696
+Pattern found at index :35498127
+Pattern found at index :35851778
+Pattern found at index :37714615
+Pattern found at index :39307751
+Pattern found at index :40893426
+Pattern found at index :41312237
+Pattern found at index :43177855
+Pattern found at index :47487376
+Pattern found at index :48133181
+Pattern found at index :48196109
+Pattern found at index :50652447
+Pattern found at index :51094977
+Pattern found at index :57506693
+Pattern found at index :59084343
+Pattern found at index :59516098
+Pattern found at index :60232291
+Pattern found at index :60886083
+Pattern found at index :61938032
+Pattern found at index :62074344
+Pattern found at index :63301571
+Pattern found at index :64802665
+Pattern found at index :64809921
+Pattern found at index :65233982
+Pattern found at index :66064005
+Pattern found at index :68318876
+Pattern found at index :68995648
+Pattern found at index :70335125
+Pattern found at index :73764889
+Pattern found at index :73897881
+Pattern found at index :75039212
+Pattern found at index :75123252
+Pattern found at index :75313316
+Pattern found at index :75732919
+Pattern found at index :76285504
+Pattern found at index :76328194
+Pattern found at index :81607844
+Pattern found at index :82266086
+Pattern found at index :82515364
+Pattern found at index :83220063
+Pattern found at index :83581155
+Pattern found at index :83930736
+Pattern found at index :84612701
+Pattern found at index :84894855
+Pattern found at index :85005532
+Pattern found at index :85862651
+Pattern found at index :85956046
+Pattern found at index :86055359
+Pattern found at index :87364072
+Pattern found at index :89154590
+Pattern found at index :89260544
+Pattern found at index :90108608
+Pattern found at index :90600416
+Pattern found at index :92706442
+Pattern found at index :94104539
+Pattern found at index :94941847
+Pattern found at index :95205389
+Pattern found at index :95662059
+Pattern found at index :96094423
+Pattern found at index :98348815
+
+Number of matchings are : 100
+
+..........This is KMP Algorithm..........
+
+
+Birthday pattern is : 970520
+
+Pattern found at index :54171
+Pattern found at index :711721
+Pattern found at index :1311949
+Pattern found at index :2152110
+Pattern found at index :2601397
+Pattern found at index :4314154
+Pattern found at index :6582950
+Pattern found at index :7055530
+Pattern found at index :7139706
+Pattern found at index :7243085
+Pattern found at index :7780316
+Pattern found at index :8207317
+Pattern found at index :8563377
+Pattern found at index :9015894
+Pattern found at index :9286806
+Pattern found at index :9355867
+Pattern found at index :9778067
+Pattern found at index :10004939
+Pattern found at index :10089687
+Pattern found at index :10391247
+Pattern found at index :12851695
+Pattern found at index :13703310
+Pattern found at index :14119875
+Pattern found at index :14251838
+Pattern found at index :15835433
+Pattern found at index :17171857
+Pattern found at index :18509969
+Pattern found at index :18798922
+Pattern found at index :23355331
+Pattern found at index :23573091
+Pattern found at index :24694082
+Pattern found at index :25194960
+Pattern found at index :29703399
+Pattern found at index :30131814
+Pattern found at index :31037323
+Pattern found at index :31223627
+Pattern found at index :31674131
+Pattern found at index :31893448
+Pattern found at index :32479698
+Pattern found at index :32838567
+Pattern found at index :34382696
+Pattern found at index :35498127
+Pattern found at index :35851778
+Pattern found at index :37714615
+Pattern found at index :39307751
+Pattern found at index :40893426
+Pattern found at index :41312237
+Pattern found at index :43177855
+Pattern found at index :47487376
+Pattern found at index :48133181
+Pattern found at index :48196109
+Pattern found at index :50652447
+Pattern found at index :51094977
+Pattern found at index :57506693
+Pattern found at index :59084343
+Pattern found at index :59516098
+Pattern found at index :60232291
+Pattern found at index :60886083
+Pattern found at index :61938032
+Pattern found at index :62074344
+Pattern found at index :63301571
+Pattern found at index :64802665
+Pattern found at index :64809921
+Pattern found at index :65233982
+Pattern found at index :66064005
+Pattern found at index :68318876
+Pattern found at index :68995648
+Pattern found at index :70335125
+Pattern found at index :73764889
+Pattern found at index :73897881
+Pattern found at index :75039212
+Pattern found at index :75123252
+Pattern found at index :75313316
+Pattern found at index :75732919
+Pattern found at index :76285504
+Pattern found at index :76328194
+Pattern found at index :81607844
+Pattern found at index :82266086
+Pattern found at index :82515364
+Pattern found at index :83220063
+Pattern found at index :83581155
+Pattern found at index :83930736
+Pattern found at index :84612701
+Pattern found at index :84894855
+Pattern found at index :85005532
+Pattern found at index :85862651
+Pattern found at index :85956046
+Pattern found at index :86055359
+Pattern found at index :87364072
+Pattern found at index :89154590
+Pattern found at index :89260544
+Pattern found at index :90108608
+Pattern found at index :90600416
+Pattern found at index :92706442
+Pattern found at index :94104539
+Pattern found at index :94941847
+Pattern found at index :95205389
+Pattern found at index :95662059
+Pattern found at index :96094423
+Pattern found at index :98348815
+
+Number of matchings are:100
+
+..........This is Rabin karp Algorithm..........
+
+
+Birthday pattern is : 970520
+
+Pattern found at index :54171
+Pattern found at index :711721
+Pattern found at index :1311949
+Pattern found at index :2152110
+Pattern found at index :2601397
+Pattern found at index :4314154
+Pattern found at index :6582950
+Pattern found at index :7055530
+Pattern found at index :7139706
+Pattern found at index :7243085
+Pattern found at index :7780316
+Pattern found at index :8207317
+Pattern found at index :8563377
+Pattern found at index :9015894
+Pattern found at index :9286806
+Pattern found at index :9355867
+Pattern found at index :9778067
+Pattern found at index :10004939
+Pattern found at index :10089687
+Pattern found at index :10391247
+Pattern found at index :12851695
+Pattern found at index :13703310
+Pattern found at index :14119875
+Pattern found at index :14251838
+Pattern found at index :15835433
+Pattern found at index :17171857
+Pattern found at index :18509969
+Pattern found at index :18798922
+Pattern found at index :23355331
+Pattern found at index :23573091
+Pattern found at index :24694082
+Pattern found at index :25194960
+Pattern found at index :29703399
+Pattern found at index :30131814
+Pattern found at index :31037323
+Pattern found at index :31223627
+Pattern found at index :31674131
+Pattern found at index :31893448
+Pattern found at index :32479698
+Pattern found at index :32838567
+Pattern found at index :34382696
+Pattern found at index :35498127
+Pattern found at index :35851778
+Pattern found at index :37714615
+Pattern found at index :39307751
+Pattern found at index :40893426
+Pattern found at index :41312237
+Pattern found at index :43177855
+Pattern found at index :47487376
+Pattern found at index :48133181
+Pattern found at index :48196109
+Pattern found at index :50652447
+Pattern found at index :51094977
+Pattern found at index :57506693
+Pattern found at index :59084343
+Pattern found at index :59516098
+Pattern found at index :60232291
+Pattern found at index :60886083
+Pattern found at index :61938032
+Pattern found at index :62074344
+Pattern found at index :63301571
+Pattern found at index :64802665
+Pattern found at index :64809921
+Pattern found at index :65233982
+Pattern found at index :66064005
+Pattern found at index :68318876
+Pattern found at index :68995648
+Pattern found at index :70335125
+Pattern found at index :73764889
+Pattern found at index :73897881
+Pattern found at index :75039212
+Pattern found at index :75123252
+Pattern found at index :75313316
+Pattern found at index :75732919
+Pattern found at index :76285504
+Pattern found at index :76328194
+Pattern found at index :81607844
+Pattern found at index :82266086
+Pattern found at index :82515364
+Pattern found at index :83220063
+Pattern found at index :83581155
+Pattern found at index :83930736
+Pattern found at index :84612701
+Pattern found at index :84894855
+Pattern found at index :85005532
+Pattern found at index :85862651
+Pattern found at index :85956046
+Pattern found at index :86055359
+Pattern found at index :87364072
+Pattern found at index :89154590
+Pattern found at index :89260544
+Pattern found at index :90108608
+Pattern found at index :90600416
+Pattern found at index :92706442
+Pattern found at index :94104539
+Pattern found at index :94941847
+Pattern found at index :95205389
+Pattern found at index :95662059
+Pattern found at index :96094423
+Pattern found at index :98348815
+
+Number of patterns are : 100
+
+..........This is Boyer-Moore String Matching Algorithm..........
+
+
+Birthday pattern is : 970520
+
+pattern found at index : 54171
+pattern found at index : 711721
+pattern found at index : 1311949
+pattern found at index : 2152110
+pattern found at index : 2601397
+pattern found at index : 4314154
+pattern found at index : 6582950
+pattern found at index : 7055530
+pattern found at index : 7139706
+pattern found at index : 7243085
+pattern found at index : 7780316
+pattern found at index : 8207317
+pattern found at index : 8563377
+pattern found at index : 9015894
+pattern found at index : 9286806
+pattern found at index : 9355867
+pattern found at index : 9778067
+pattern found at index : 10004939
+pattern found at index : 10089687
+pattern found at index : 10391247
+pattern found at index : 12851695
+pattern found at index : 13703310
+pattern found at index : 14119875
+pattern found at index : 14251838
+pattern found at index : 15835433
+pattern found at index : 17171857
+pattern found at index : 18509969
+pattern found at index : 18798922
+pattern found at index : 23355331
+pattern found at index : 23573091
+pattern found at index : 24694082
+pattern found at index : 25194960
+pattern found at index : 29703399
+pattern found at index : 30131814
+pattern found at index : 31037323
+pattern found at index : 31223627
+pattern found at index : 31674131
+pattern found at index : 31893448
+pattern found at index : 32479698
+pattern found at index : 32838567
+pattern found at index : 34382696
+pattern found at index : 35498127
+pattern found at index : 35851778
+pattern found at index : 37714615
+pattern found at index : 39307751
+pattern found at index : 40893426
+pattern found at index : 41312237
+pattern found at index : 43177855
+pattern found at index : 47487376
+pattern found at index : 48133181
+pattern found at index : 48196109
+pattern found at index : 50652447
+pattern found at index : 51094977
+pattern found at index : 57506693
+pattern found at index : 59084343
+pattern found at index : 59516098
+pattern found at index : 60232291
+pattern found at index : 60886083
+pattern found at index : 61938032
+pattern found at index : 62074344
+pattern found at index : 63301571
+pattern found at index : 64802665
+pattern found at index : 64809921
+pattern found at index : 65233982
+pattern found at index : 66064005
+pattern found at index : 68318876
+pattern found at index : 68995648
+pattern found at index : 70335125
+pattern found at index : 73764889
+pattern found at index : 73897881
+pattern found at index : 75039212
+pattern found at index : 75123252
+pattern found at index : 75313316
+pattern found at index : 75732919
+pattern found at index : 76285504
+pattern found at index : 76328194
+pattern found at index : 81607844
+pattern found at index : 82266086
+pattern found at index : 82515364
+pattern found at index : 83220063
+pattern found at index : 83581155
+pattern found at index : 83930736
+pattern found at index : 84612701
+pattern found at index : 84894855
+pattern found at index : 85005532
+pattern found at index : 85862651
+pattern found at index : 85956046
+pattern found at index : 86055359
+pattern found at index : 87364072
+pattern found at index : 89154590
+pattern found at index : 89260544
+pattern found at index : 90108608
+pattern found at index : 90600416
+pattern found at index : 92706442
+pattern found at index : 94104539
+pattern found at index : 94941847
+pattern found at index : 95205389
+pattern found at index : 95662059
+pattern found at index : 96094423
+pattern found at index : 98348815
+
+Number of patterns are : 100
